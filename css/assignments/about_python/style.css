@@ -6,8 +6,8 @@
 em {
 	display: block;
 	color: #FFD343;
-	font-size: 16px;
-	line-height: 32px;
+	font-size: 18px;
+	line-height: 36px;
 }
 
 #wrapper {
@@ -34,12 +34,17 @@ em {
 #top img {
 	width: 300px;
 	margin-right: 350px;
+	vertical-align: bottom;
+	margin-top: 20px;
 }
 
 #search {
 	display: inline-block;
 	width: 275px;
 	color: white;
+	font-size: 10px;
+	vertical-align: top;
+	margin-top: -5px;
 }
 
 #search a {
@@ -76,7 +81,7 @@ em {
 	background-color: #487EAB;
 	border-radius: 10px;
 	box-shadow: 2px 2px 5px 0 black;
-	margin: 30px auto 0px;
+	margin: 20px auto 0px;
 	padding: 10px;
 }
 
@@ -88,9 +93,10 @@ em {
 }
 
 #nav {
-	width: 300px;
+	width: 250px;
 	display: inline-block;
 	vertical-align: top;
+	margin-right: 50px;
 }
 
 #nav a {
@@ -108,7 +114,8 @@ em {
 
 #desc {
 	display: inline-block;
-	width: 600px;
+	width: 500px;
 	color: white;
 	font-size: 12px;
+	margin-left: 40px;
 }
