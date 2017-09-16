@@ -1,0 +1,149 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	color: #505050;
+}
+
+
+a {
+	color: #505050;
+}
+
+h2 {
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	color: white;
+	background-image: linear-gradient(0deg, #B4B4B7, #878593 50%, #B4B4B7);
+	padding: 10px;
+	margin-top: 0px;
+}
+
+h3 {
+	font-size: 13px;
+	font-family: Helvetica, sans-serif;
+	color: white;
+	background-image: linear-gradient(0deg, #B4B4B7, #878593 50%, #B4B4B7);
+	padding: 10px;
+}
+
+.wrapper {
+	width: 970px;
+	background-image: radial-gradient(circle at center, #6F5964 50%, black 100%);
+}
+
+.header {
+	background-color: white;
+}
+
+#title {
+	margin: -5px 10px 10px 10px;
+	font-family: "Comic Sans MS", cursive;
+	color: black;
+	display: inline-block;
+	vertical-align: top;
+	width: 400px;
+}
+
+#subtitle {
+	width: 500px;
+	text-align: right;
+	color: black;
+	font-size: 18px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.about {
+	padding: 20px;
+	display: block;
+}
+
+.about img {
+	width: 400px;
+	display: inline-block;
+	border: 5px gray solid;
+	margin-right: 15px;
+}
+
+.about div {
+	width: 475px;
+	height: 273px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 15px;
+	background-image: radial-gradient(farthest-corner at 300px 10px, #DACCD9 0%, white 100%);
+}
+
+.main {
+	margin-top: -20px;
+	padding: 20px 10px;
+	display: block;
+	align-content: stretch;
+}
+
+
+.content {
+	width: 290px;
+	display: inline-block;
+	vertical-align: top;
+	background-image: radial-gradient(farthest-corner at 100px 10px, #DACCD9 0%, white 100%);
+	margin: 10px;
+}
+
+.content img {
+	width: 100%;
+	vertical-align: top;
+	margin-top: -10px;
+}
+
+p {
+	margin-top: -5px;
+	padding: 10px 15px;
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.content p {
+	height: 150px;
+}
+
+.tech_logos {
+	margin-top: -10px;
+	padding: 10px;
+}
+
+.tech_logos img {
+	width: 40px;
+	margin: 10px 5px;
+}
+
+.footer {
+	background-color: white;
+}
+
+.footer p {
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: -5px;
+}
+
+.footer img {
+	width: 20px;
+	vertical-align: top;
+}
+
+.footer a {
+	font-style: italic;
+}
+
+button {
+	font-size: 13px;
+	padding: 5px;
+	display: block;
+	color: white;
+	border-radius: 5px;
+	border: 1px solid black;
+	background-color: #407D61;
+	box-shadow: 2px 3px 5px 0 gray;
+	margin: -10px auto 15px auto;
+}
