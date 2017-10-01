@@ -1,0 +1,35 @@
+* {
+	font-family: Menlo, sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+.demo {
+	width: 500px;
+	background-color: #9F9F9F;
+	padding: 50px;
+	margin: 20px auto;
+}
+
+h1 {
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+button	{
+	margin-bottom: 20px;
+	background-color: #F1F1F1;
+	padding: 10px;
+	border-color: orange;
+	border-style: solid;
+
+}
+
+.serif {
+	font-family: Times, serif;
+}
+
+hr {
+	width: 450px;
+	margin: auto;
+}
